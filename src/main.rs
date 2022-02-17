@@ -1,3 +1,5 @@
+mod text_analyzer;
+
 fn main() {
     const BYTE_ARRAY: [u8; 3] = [0x01, 0x2d, 0xf0];
 
